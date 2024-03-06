@@ -1,0 +1,19 @@
+{
+  "name": "ssvystun-oauth-app",
+  "description": "Build a client library for OAuth 2.0 authentication, making it easy for developers to integrate with popular OAuth providers. Simple as a door",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" 
+  },
+  "keywords": [ 
+    "ssvystun", 
+    "oauth",
+    "npm"
+  ],
+  "author": "SSvystun", 
+  "license": "MIT"
+}

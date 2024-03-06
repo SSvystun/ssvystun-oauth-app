@@ -1,5 +1,6 @@
 {
   "name": "ssvystun-oauth-app",
+  "version": "1.0.1",
   "description": "Build a client library for OAuth 2.0 authentication, making it easy for developers to integrate with popular OAuth providers. Simple as a door",
   "main": "./src/index.js",
   "scripts": {
@@ -7,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/SSvystun/ssvystun-oauth-app.git" 
   },
   "keywords": [ 
     "ssvystun", 

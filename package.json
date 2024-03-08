@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "colorfull-logger": "^1.1.2",
+    "markdownparserbykenvit": "^1.0.0",
     "obteamonomah": "^1.0.0"
   }
 }
